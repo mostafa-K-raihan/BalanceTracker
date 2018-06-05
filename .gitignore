@@ -1,0 +1,6 @@
+db.sqlite3
+BalanceTracker/__pycache__
+.idea
+BalanceTracker/migrations
+MySite/__pycache__
+
